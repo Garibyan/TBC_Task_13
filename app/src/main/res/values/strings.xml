@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TBC_Task_13</string>
+    <string name="retry">Retry</string>
+    <string name="success">Success</string>
+    <string name="error">Something went wrong</string>
+    <string name="loading">Loading…</string>
+</resources>
